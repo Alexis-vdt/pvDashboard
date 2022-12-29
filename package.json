@@ -1,0 +1,12 @@
+{
+    "name": "pvDaschboard",
+    "description": "This project is set to create a dashboard to supervise the different parameters linked to the use of a PV Plant.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
